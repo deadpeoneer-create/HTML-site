@@ -40,10 +40,11 @@ h2{
 }
 @media (max-width: 765px) {
     
-    section {
+    .section {
         flex-direction: column;
     }
     .pict 
     .content{
         width: 100%;
+}
 }
